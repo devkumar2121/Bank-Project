@@ -1,0 +1,428 @@
+*{
+	margin:0px;
+	padding:0px;
+	}
+.main_div{
+	width:100%;
+	height:1720px;
+	background:;
+	}	
+
+.bank_logo{
+	background:url(bank_image.jpg);
+	background-size:100% 100%;
+	width:21%;
+	height:180px;
+	margin-left:40px;
+	}	
+.bank_moto{
+	width:190px;
+	height:50px;
+	margin-left:130px;
+	margin-top:140px;
+	position:absolute;
+	}
+.marquee{
+	width:74%;
+	height:40px;
+	position:absolute;
+	margin-top:100px;
+	margin-left:20%;
+	}
+.marqueee{
+	font-size:26px;
+	
+	}		
+.bank_top{
+	width:52%;
+	height:40px;
+	margin-left:38%;
+	margin-top:-180px;
+	background:#3C53B0;
+	border-bottom-left-radius:30px;
+	border-bottom-right-radius:30px;
+	}	
+.bank_top > p{
+	padding-top:4px;
+	}	
+.bank_top > p > a{
+	text-decoration:none;
+	color:#fff;
+	padding-left:25px;
+	}		
+.bank_search{
+	margin-left:75%;
+	margin-top:20px;
+	}	
+	
+.bank_menu{
+	width:100%;
+	height:50px;
+	background:#C63;
+	margin-top:80px;
+	}
+.bank_menu > p >a{
+	text-decoration:none;
+	padding-left:90px;
+	padding-top:5px;
+	font-size:27px;
+	color:#FFF;
+	background:;
+	text-align:center;
+	float:left;
+	}
+.image{
+	width:80%;
+	height:500px;
+	background:url(bank-operations-consultants.jpg);
+	margin-left:110px;
+	}
+.option1{
+	width:30%;
+	height:160px;
+	background:#E4E4C9;
+	margin-left:3%;
+	float:left;
+	}
+.option1 > p{
+	font-size:26px;
+	}
+.option2{
+	width:30%;
+	height:160px;
+	background:#E4E4C9;
+	margin-left:3%;
+	float:left;
+	}
+.option2 > p{
+	font-size:26px;
+	}
+.option3{
+	width:30%;
+	height:160px;
+	background:#E4E4C9;
+	margin-left:68%;
+	float:;
+	}							
+
+.option3 > p{
+	font-size:26px;
+	}
+
+.option4{
+	width:30%;
+	height:160px;
+	background:#E4E4C9;
+	margin-left:3%;
+	float:left;
+	}							
+
+.option4 > p{
+	font-size:26px;
+	}	
+
+.option5{
+	width:30%;
+	height:160px;
+	background:#E4E4C9;
+	margin-left:3%;
+	float:left;
+	}							
+
+.option5 > p{
+	font-size:26px;
+	}	
+
+.option6{
+	width:30%;
+	height:160px;
+	background:#E4E4C9;
+	margin-left:68%;
+	float:;
+	}							
+
+.option6 > p{
+	font-size:26px;
+	}	
+.button1{
+	width:140px;
+	height:40px;
+	margin-top:30px;
+	background:#F95100;
+	color:#FFF;
+	}
+.button2{
+	width:140px;
+	height:40px;
+	margin-top:0px;
+	background:#F95100;
+	color:#FFF;
+	}
+.button3{
+	width:140px;
+	height:40px;
+	margin-top:30px;
+	background:#F95100;
+	color:#FFF;
+	}
+.button4{
+	width:140px;
+	height:40px;
+	margin-top:20px;
+	background:#F95100;
+	color:#FFF;
+	}
+.button5{
+	width:140px;
+	height:40px;
+	margin-top:20px;
+	background:#F95100;
+	color:#FFF;
+	}
+.button6{
+	width:140px;
+	height:40px;
+	margin-top:2px;
+	background:#F95100;
+	color:#FFF;
+	}
+.image1{
+	background:url(I-Bank-Pure-Gold_D.jpg);
+	width:96.4%;
+	height:340px;
+	margin-left:25px;
+	}
+.footer{
+	width:100%;
+	height:200px;
+	}
+.footer > p{
+	font-size:20px;
+		}					
+.footer > p > a{
+	
+	}
+.explore_menu{
+	width:15%;
+	height:200px;
+	background:;
+	margin-left:10%;
+	margin-top:40px;
+	position:absolute;
+	}
+.explore_menu > li > a{
+	text-decoration:none;
+	color:#000;
+	}
+.explore_menu1{
+	width:15%;
+	height:200px;
+	background:;
+	margin-left:25%;
+	margin-top:40px;
+	position:absolute;
+	}
+.explore_menu1 > li > a{
+	text-decoration:none;
+	color:#000;
+	}
+.explore_menu2{
+	width:15%;
+	height:200px;
+	margin-left:42%;
+	margin-top:40px;
+	position:absolute;
+
+	}						
+
+.explore_menu2 > li > a{
+	text-decoration:none;
+	color:#000;
+	}	
+.explore_menu3{
+	width:15%;
+	height:200px;
+	margin-left:58%;
+	margin-top:40px;
+	position:absolute;
+	}						
+.explore_menu3 > li > a{
+	text-decoration:none;
+	color:#000;
+	}
+.copyright{
+	width:100%;
+	height:48px;
+	background:#600;
+	margin-top:190px;
+	position:absolute;
+	}	
+.copyright > p{
+	font-size:20px;
+	margin-left:35%;
+	color:#FFF;
+	}
+.form{
+	width:40%;
+	height:250px;
+	margin-left:29%;
+	margin-top:50px;
+	border:2px solid #000;
+	}
+.input1{
+	margin-left:20px;
+	}	
+.input2{
+	margin-left:66px;
+	}		
+.input3{
+	margin-left:98px;
+	}	
+.input4{
+	margin-left:104px;
+	}	
+.transfer{
+	width:130px;
+	height:50px;
+	margin-left:204px;
+	margin-top:30px;
+	}
+.image2{
+	width:50%;
+	height:100px;
+	margin-top:30px;
+	margin-left:50px;
+	}
+.address{
+	width:61%;
+	height:300px;
+	background:;
+	position:absolute;
+	margin-left:10%;
+	margin-top:280px;
+	color:#F90;
+	}
+.address > p{
+	font-size:28px;
+	}
+.complaint{
+	width:50%;
+	height:300px;
+	background:;
+	margin-left:25%;
+	margin-top:100px;
+	}
+.input5,.input6,.input7,.input8,.input9{
+	width:50%;
+	height:30px;
+	margin-left:20%;
+	}
+.button7{
+	width:20%;
+	height:50px;
+	margin-left:240px;
+	margin-top:50px;
+	}
+.atm{
+	width:60%;
+	height:300px;
+	background:;
+	position:absolute;
+	margin-left:20%;
+	margin-top:100px;
+	}
+.atm > p{
+	font-size:30px;
+	margin-left:300px;
+	margin-top:-480px;
+	}
+.image3{
+	margin-left:-250px;
+	}		
+.para{
+	width:40%;
+	height:200px;
+	margin-left:55%;
+	margin-top:10%;
+	position:absolute;
+	font-size:30px;
+	}
+.para1{
+	width:100%;
+	height:250px;
+	margin-top:42%;
+	position:absolute;
+	font-size:30px;
+	}
+.image4{
+	width:100%;
+	height:480px;
+	background:url(loan.jpg);
+	background-size:100% 100%;
+	position:absolute;
+	}
+.loans{
+	width:100%;
+	height:100px;
+	position:absolute;
+	margin-top:38%;
+	}
+.loans >p{
+	font-size:30px;
+	color:#FB5200;
+	}					
+.image_loan{
+	width:100%;
+	height:200px;
+	position:absolute;
+	margin-top:47%;
+	}
+.image_loan1{
+	width:30%;
+	height:200px;
+	padding-left:30px;
+	}
+.image_loan2{
+	width:30%;
+	height:200px;
+	padding-left:50px;
+	}
+.image_loan3{
+	width:30%;
+	height:200px;
+	padding-left:30px;
+	}
+.image_loan4{
+	width:30%;
+	height:200px;
+	padding-left:30px;
+	}
+.image_loan5{
+	width:30%;
+	height:200px;
+	padding-left:50px;
+	}
+
+.image_loan6{
+	width:30%;
+	height:200px;
+	margin-left:68.8%;
+	margin-top:-15%;
+	}	
+.login{
+	width:40%;
+	height:250px;
+	margin-left:30%;
+	margin-top:100px;
+	border:solid 1px #000;
+	}
+.input10,.input11{
+	width:50%;
+	height:40px;
+	}
+.button8{
+	width:20%;
+	height:30px;
+	margin-left:45%;
+	margin-top:30px;
+	}		
